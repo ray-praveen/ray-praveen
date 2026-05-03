@@ -1,40 +1,62 @@
 <h1 align="center">Praveen Ray</h1>
 <p align="center">
-Android Developer | Kotlin | Jetpack Compose | Scalable Mobile Systems
+Product Engineer | Mobile (Android) | UI/UX Engineering | Scalable Systems
 </p>
 
 ---
 
 ## Professional Summary
 
-Android Developer with experience building scalable, user-focused mobile applications using Kotlin and Jetpack Compose. Strong understanding of modern Android architecture (MVVM, Clean Architecture) and backend integration.
+Product-focused Software Engineer with strong expertise in Android development and UI/UX engineering. I build scalable, user-centric applications with a focus on performance, usability, and real-world impact.
 
-Focused on delivering production-ready applications with maintainable code, performance optimization, and seamless user experience.
+Experienced in Kotlin, Jetpack Compose, React.js, and React Native, with working knowledge of backend systems and DevOps practices. I approach development with a product mindset—balancing engineering quality with user experience.
 
 ---
 
 ## Core Expertise
 
-### Mobile Development
+### Product Engineering
+- End-to-End Product Development
+- Feature Design & Implementation
+- User-Centric Development
+- Performance Optimization
+
+### Mobile Development (Android)
 - Kotlin
 - Jetpack Compose
 - Android SDK
 - Material Design
+- Navigation Component
 
-### Architecture & Engineering
-- MVVM Architecture
-- Clean Architecture
-- Modularization
-- State Management
+### UI/UX Engineering
+- Design Systems
+- Interaction Design
+- Responsive Layouts
+- User Flow Optimization
+- Figma to Code Implementation
 
-### Backend Integration
-- REST APIs
+### Frontend & Cross-Platform
+- React.js
+- React Native
+- TypeScript & JavaScript
+
+### Backend & APIs
+- Node.js & Express.js
+- REST API Integration
 - Firebase
-- Authentication Systems
+- Authentication (JWT, Firebase Auth)
+
+### DevOps & Cloud
+- Docker
+- Kubernetes (Basics)
+- AWS (EC2, Deployment)
+- CI/CD (GitHub Actions)
 
 ### Tools & Workflow
 - Git & GitHub
 - Android Studio
+- VS Code
+- Figma
 - Postman
 - Gradle
 
@@ -42,31 +64,49 @@ Focused on delivering production-ready applications with maintainable code, perf
 
 ## Key Projects
 
+### VoxaBuddy – AI Voice Companion App
+- Designed and developed an AI-driven conversational mobile application
+- Focused on real-time interaction and smooth user experience
+- Implemented modern UI/UX with responsive design patterns
+
 ### AIVENA – AI Healthcare Companion App
-- Designed a scalable Android architecture using MVVM + Clean Architecture
-- Built modern UI using Jetpack Compose
-- Focused on user-centric healthcare experience
+- Built a scalable Android app using MVVM and Clean Architecture
+- Developed intuitive healthcare-focused UI using Jetpack Compose
+- Focused on accessibility and user-centric flows
 
 ### AffectaAI – Emotion-Adaptive Interface Engine
-- Developed an adaptive UI system responding to user behavior
-- Focused on intelligent UX and personalization
+- Engineered adaptive UI based on user interaction and behavioral patterns
+- Explored intelligent UX and personalized interfaces
+
+### ProGPT – AI Productivity Assistant
+- Built an AI-powered assistant for task optimization and workflow support
+- Focused on clean UI and fast interaction
+
+### Chatify – Real-Time Chat Application
+- Developed real-time messaging system with scalable architecture
+- Implemented authentication and responsive UI
+
+### OTT Platform (Streaming Application)
+- Designed UI/UX similar to modern streaming platforms
+- Focused on content discovery, navigation, and performance
 
 ### Android UI Development – Jetpack Compose
-- Hands-on implementation of modern UI components
-- Covers layouts, theming, and reusable components
+- Built reusable UI components and design systems
+- Focused on performance and maintainability
 
-### DSA with Kotlin
-- Solved data structures and algorithms problems
-- Strengthened problem-solving and logic-building skills
+### Portfolio Website
+- Built using React.js and TypeScript
+- Designed clean, structured, and responsive UI
 
 ---
 
 ## Engineering Approach
 
-- Write clean, maintainable, and testable code
-- Follow separation of concerns
-- Focus on scalability and performance
-- Build real-world, production-ready applications
+- Build products, not just features
+- Prioritize user experience alongside performance
+- Write clean, scalable, and maintainable code
+- Follow modular and architecture-driven development
+- Think in systems, not just screens
 
 ---
 
@@ -76,27 +116,30 @@ Focused on delivering production-ready applications with maintainable code, perf
 Wyreflow Technologies  
 May 2025 – July 2025  
 
-- Contributed to real-world product development
-- Improved performance and UI responsiveness
-- Collaborated in agile development environment
+- Worked on real-world product features and enhancements
+- Improved UI responsiveness and application performance
+- Collaborated in a team-driven development environment
+- Contributed to feature design and debugging
 
 ---
 
 ## Current Focus
 
-- Advanced Jetpack Compose
-- System Design for Mobile Applications
-- Backend Integration & API Design
-- Performance Optimization
+- Advanced Jetpack Compose & UI Performance
+- Scalable Mobile System Design
+- Product Thinking & UX Optimization
+- Backend Integration for Production Apps
 
 ---
 
 ## GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ray-praveen&show_icons=true&theme=default&hide_border=true&cache_seconds=1800" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ray-praveen&layout=compact&theme=default&hide_border=true&cache_seconds=1800" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=ray-praveen&show_icons=true&hide_border=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ray-praveen&layout=compact&hide_border=true" />
 </p>
+
+---
 
 ## Contact
 
