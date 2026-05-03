@@ -94,11 +94,9 @@ May 2025 – July 2025
 ## GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ray-praveen&show_icons=true&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ray-praveen&layout=compact&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ray-praveen&show_icons=true&theme=default&hide_border=true&cache_seconds=1800" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ray-praveen&layout=compact&theme=default&hide_border=true&cache_seconds=1800" />
 </p>
-
----
 
 ## Contact
 
